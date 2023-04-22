@@ -1,0 +1,68 @@
+Uri: https://krxclient.pages.dev/
+File Name: C:\Users\user\Documents\krxclient.pages.dev\index.htm
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,600
+File Name: C:\Users\user\Documents\krxclient.pages.dev\css.css
+Content Type: text/css
+
+Uri: https://krxclient.pages.dev/dist/css/style.css
+File Name: C:\Users\user\Documents\krxclient.pages.dev\dist\css\style.css
+Content Type: text/css
+
+Uri: https://krxclient.pages.dev/dist/images/favicon.png
+File Name: C:\Users\user\Documents\krxclient.pages.dev\dist\images\favicon.png
+Content Type: image/png
+
+Uri: https://t.me/joinchat/4sp4Mduuf0RiZGM0
+File Name: C:\Users\user\Documents\krxclient.pages.dev\joinchat\4sp4Mduuf0RiZGM0.html
+Content Type: text/html
+
+Uri: https://krxclient.pages.dev/changelog
+File Name: C:\Users\user\Documents\krxclient.pages.dev\changelog.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=TqTUk5GgmQ8
+File Name: C:\Users\user\Documents\krxclient.pages.dev\watch.html
+Content Type: text/html
+
+Uri: https://unpkg.com/animejs@3.0.1/lib/anime.min.js
+File Name: C:\Users\user\Documents\krxclient.pages.dev\animejs@3.0.1\lib\anime.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js
+File Name: C:\Users\user\Documents\krxclient.pages.dev\scrollreveal@4.0.0\dist\scrollreveal.min.js
+Content Type: application/javascript
+
+Uri: https://kit.fontawesome.com/105ec0c3a3.js
+File Name: C:\Users\user\Documents\krxclient.pages.dev\105ec0c3a3.js
+Content Type: text/javascript
+
+Uri: https://krxclient.pages.dev/dist/images/logo.svg
+File Name: C:\Users\user\Documents\krxclient.pages.dev\dist\images\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://krxclient.pages.dev/dist/js/main.min.js
+File Name: C:\Users\user\Documents\krxclient.pages.dev\dist\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: C:\Users\user\Documents\krxclient.pages.dev\beacon.min.js
+Content Type: text/javascript
+
+Uri: https://krxclient.pages.dev/dist/images/hero-back-illustration.svg
+File Name: C:\Users\user\Documents\krxclient.pages.dev\dist\images\hero-back-illustration.svg
+Content Type: image/svg+xml
+
+Uri: https://krxclient.pages.dev/dist/images/krx-logo.png
+File Name: C:\Users\user\Documents\krxclient.pages.dev\dist\images\krx-logo.png
+Content Type: image/png
+
+Uri: https://krxclient.pages.dev/dist/images/pricing-illustration.svg
+File Name: C:\Users\user\Documents\krxclient.pages.dev\dist\images\pricing-illustration.svg
+Content Type: image/svg+xml
+
+Uri: https://krxclient.pages.dev/dist/images/cta-illustration.svg
+File Name: C:\Users\user\Documents\krxclient.pages.dev\dist\images\cta-illustration.svg
+Content Type: image/svg+xml
+
